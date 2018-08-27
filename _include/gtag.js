@@ -6,5 +6,5 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-124680793-1');
-  gtag('event', 'page_view', { 'send_to': 'GA_TRACKING_ID' });
+  gtag('event', 'page_view', { 'send_to': 'UA-124680793-1' });
 </script>
